@@ -1,0 +1,14 @@
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/bin/Debug/net8.0/ДЗ-for11
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/bin/Debug/net8.0/ДЗ-for11.deps.json
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/bin/Debug/net8.0/ДЗ-for11.runtimeconfig.json
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/bin/Debug/net8.0/ДЗ-for11.dll
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/bin/Debug/net8.0/ДЗ-for11.pdb
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/obj/Debug/net8.0/ДЗ-for11.GeneratedMSBuildEditorConfig.editorconfig
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/obj/Debug/net8.0/ДЗ-for11.AssemblyInfoInputs.cache
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/obj/Debug/net8.0/ДЗ-for11.AssemblyInfo.cs
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/obj/Debug/net8.0/ДЗ-for11.csproj.CoreCompileInputs.cache
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/obj/Debug/net8.0/ДЗ-for11.dll
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/obj/Debug/net8.0/refint/ДЗ-for11.dll
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/obj/Debug/net8.0/ДЗ-for11.pdb
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/obj/Debug/net8.0/ДЗ-for11.genruntimeconfig.cache
+/home/tabrez-dev/RiderProjects/ДЗ-for11/ДЗ-for11/obj/Debug/net8.0/ref/ДЗ-for11.dll
